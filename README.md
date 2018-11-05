@@ -1,2 +1,2 @@
 # wallpaperRegeditBat
-programmatically change desktop wallpaper by modifying the registry keys
+Programmatically change desktop wallpaper by modifying the registry keys
